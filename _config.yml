@@ -80,3 +80,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:JSXFEDU/jsxfedu.github.com.git
+  branch: master
