@@ -79,5 +79,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:JSXFEDU/jsxfedu.github.com.git
+  repo: git@github.com:JSXFEDU/jsxfedu.github.io.git
   branch: master
